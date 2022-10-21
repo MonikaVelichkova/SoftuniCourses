@@ -8,3 +8,7 @@ Certificate - Programming Basics with C# (png):
 Programming Fundamentals with C# Certificate (png):
 
 ![Programming Fundamentals with C# Certificate](https://user-images.githubusercontent.com/55868166/197204038-ee8cdcec-44ff-41ee-ac04-268d31b24f2b.png)
+
+Marketing Basics Certificate (png):
+
+![Marketing Basics - March 2022 - Honorable mention](https://user-images.githubusercontent.com/55868166/197204411-67be4f33-76ab-4392-861e-1aedd8d57dee.png)
