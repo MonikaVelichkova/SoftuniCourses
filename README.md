@@ -3,11 +3,11 @@ Contains solutions and certifications from my learning experience at Software Un
 
 Certificate - Programming Basics with C# (png):
 
-![Certificate - Programming Basics with C#](https://user-images.githubusercontent.com/55868166/197204100-86fd5215-6b38-4048-ab7f-fb3d6576bff4.png)
+![Programming Basics - October 2021 - Certificate](https://user-images.githubusercontent.com/55868166/197205735-ed8a9bec-f56b-44b6-bb95-7540a8c8b9d9.jpeg)
 
 Programming Fundamentals with C# Certificate (png):
 
-![Programming Fundamentals with C# Certificate](https://user-images.githubusercontent.com/55868166/197204038-ee8cdcec-44ff-41ee-ac04-268d31b24f2b.png)
+![Programming Fundamentals with C# - January 2022 - Certificate](https://user-images.githubusercontent.com/55868166/197205707-b67ef148-be39-49ea-89f8-bf64a42cded6.jpeg)
 
 Marketing Basics Certificate (png):
 
