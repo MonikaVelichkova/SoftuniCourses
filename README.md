@@ -3,8 +3,8 @@ Contains solutions and certifications from my learning experience at Software Un
 
 Certificate - Programming Basics with C# (png):
 
-![Certificate - Programming Basics with C#](https://user-images.githubusercontent.com/55868166/197200912-98e3f436-3979-4c35-8794-d0efef303a50.png)
+![Certificate - Programming Basics with C#](https://user-images.githubusercontent.com/55868166/197204100-86fd5215-6b38-4048-ab7f-fb3d6576bff4.png)
 
 Programming Fundamentals with C# Certificate (png):
 
-![Programming Fundamentals with C# Certificate](https://user-images.githubusercontent.com/55868166/197203035-7553a363-5bdb-42b0-9e92-97b3cc60fd14.png)
+![Programming Fundamentals with C# Certificate](https://user-images.githubusercontent.com/55868166/197204038-ee8cdcec-44ff-41ee-ac04-268d31b24f2b.png)
