@@ -1,7 +1,5 @@
 # SoftuniCourses
-Contains solutions and certifications from my learning experience at Software University.
-
-/Various task solutions will be added from the Basics, Fundamentals and Advanced and OOP modules. Currently learning C# Advanced and OOP./
+Contains solutions and certifications from my learning experience at Software University. Various task solutions will be added from the Basics, Fundamentals and Advanced and OOP modules. Currently learning C# Advanced and OOP.
 
 Certificate - Programming Basics with C# (png):
 
