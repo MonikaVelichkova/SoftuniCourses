@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.genruntimeconfig.cache

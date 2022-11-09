@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\03. Exercise Arrays\Arrays\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.genruntimeconfig.cache
