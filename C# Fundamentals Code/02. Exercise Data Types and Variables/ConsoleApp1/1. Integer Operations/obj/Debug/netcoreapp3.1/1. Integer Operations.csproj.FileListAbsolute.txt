@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\02. Exercise Data Types and Variables\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\bin\Debug\netcoreapp3.1\2. Division.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\bin\Debug\netcoreapp3.1\2. Division.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\bin\Debug\netcoreapp3.1\2. Division.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\bin\Debug\netcoreapp3.1\2. Division.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\bin\Debug\netcoreapp3.1\2. Division.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\bin\Debug\netcoreapp3.1\2. Division.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Basic Syntax, Conditional Statements and Loops - Exercise\ConsoleApp1\2. Division\obj\Debug\netcoreapp3.1\2. Division.genruntimeconfig.cache

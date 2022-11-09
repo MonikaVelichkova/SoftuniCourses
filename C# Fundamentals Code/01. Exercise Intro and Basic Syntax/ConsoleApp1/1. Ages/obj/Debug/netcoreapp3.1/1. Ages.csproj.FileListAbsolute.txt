@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\01. Exercise Intro and Basic Syntax\ConsoleApp1\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.genruntimeconfig.cache
