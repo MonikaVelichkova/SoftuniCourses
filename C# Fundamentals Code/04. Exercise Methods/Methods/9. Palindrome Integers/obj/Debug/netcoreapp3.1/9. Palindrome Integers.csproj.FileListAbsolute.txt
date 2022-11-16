@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\bin\Debug\netcoreapp3.1\9. Palindrome Integers.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\bin\Debug\netcoreapp3.1\9. Palindrome Integers.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\bin\Debug\netcoreapp3.1\9. Palindrome Integers.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\bin\Debug\netcoreapp3.1\9. Palindrome Integers.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\bin\Debug\netcoreapp3.1\9. Palindrome Integers.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\bin\Debug\netcoreapp3.1\9. Palindrome Integers.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\9. Palindrome Integers\obj\Debug\netcoreapp3.1\9. Palindrome Integers.genruntimeconfig.cache

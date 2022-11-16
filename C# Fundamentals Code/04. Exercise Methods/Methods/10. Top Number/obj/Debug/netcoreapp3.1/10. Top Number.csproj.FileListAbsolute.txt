@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.genruntimeconfig.cache

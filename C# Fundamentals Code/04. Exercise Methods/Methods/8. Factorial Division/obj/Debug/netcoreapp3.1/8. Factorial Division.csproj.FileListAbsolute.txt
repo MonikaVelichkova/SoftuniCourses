@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\bin\Debug\netcoreapp3.1\8. Factorial Division.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\04. Exercise Methods\Methods\8. Factorial Division\obj\Debug\netcoreapp3.1\8. Factorial Division.genruntimeconfig.cache
