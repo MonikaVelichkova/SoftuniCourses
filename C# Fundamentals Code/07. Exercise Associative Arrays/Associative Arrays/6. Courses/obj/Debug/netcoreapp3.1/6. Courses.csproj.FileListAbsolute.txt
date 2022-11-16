@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.genruntimeconfig.cache

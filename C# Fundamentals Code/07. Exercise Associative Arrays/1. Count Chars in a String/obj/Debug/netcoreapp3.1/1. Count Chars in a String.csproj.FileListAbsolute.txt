@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\bin\Debug\netcoreapp3.1\1. Count Chars in a String.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\07. Exercise Associative Arrays\1. Count Chars in a String\obj\Debug\netcoreapp3.1\1. Count Chars in a String.genruntimeconfig.cache

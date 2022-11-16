@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace Objects_and_Classes
 {
@@ -6,7 +9,10 @@ namespace Objects_and_Classes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
+/*
+Objects and Classes Exc.
+ */

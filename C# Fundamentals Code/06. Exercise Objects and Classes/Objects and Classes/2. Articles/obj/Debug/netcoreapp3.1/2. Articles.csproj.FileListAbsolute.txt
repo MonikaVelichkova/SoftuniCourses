@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\06. Exercise Objects and Classes\Objects and Classes\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.genruntimeconfig.cache
