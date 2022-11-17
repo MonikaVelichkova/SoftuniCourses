@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.exe
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.deps.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.dll
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.pdb
+C:\Users\User\Documents\GitHub\SoftuniCourses\C# Fundamentals Code\08. Exercise Strings and Text Processing\Text\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.genruntimeconfig.cache
